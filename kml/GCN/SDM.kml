@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="3344">
+        <Style id="3347">
+            <IconStyle id="3349">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="3350">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="3348">
+                <color>ffffff00</color>
+                <colorMode>normal</colorMode>
+                <scale>1.5</scale>
+            </LabelStyle>
+        </Style>
+        <Placemark id="3346">
+            <name>South Dome</name>
+            <Camera>
+                <longitude>-44.817170000000004</longitude>
+                <latitude>63.14889</latitude>
+                <altitude>400000.0</altitude>
+                <tilt>0</tilt>
+            </Camera>
+            <styleUrl>#3347</styleUrl>
+            <Point id="3345">
+                <coordinates>-44.817170000000004,63.14889,2922</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

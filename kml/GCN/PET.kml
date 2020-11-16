@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="3371">
+        <Style id="3374">
+            <IconStyle id="3376">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="3377">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="3375">
+                <color>ffffff00</color>
+                <colorMode>normal</colorMode>
+                <scale>1.5</scale>
+            </LabelStyle>
+        </Style>
+        <Placemark id="3373">
+            <name>Petermann ELA</name>
+            <Camera>
+                <longitude>-58.138360999999996</longitude>
+                <latitude>80.097083</latitude>
+                <altitude>400000.0</altitude>
+                <tilt>0</tilt>
+            </Camera>
+            <styleUrl>#3374</styleUrl>
+            <Point id="3372">
+                <coordinates>-58.138360999999996,80.097083,944</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
